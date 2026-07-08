@@ -12,7 +12,7 @@ All projects are hosted live via GitHub Pages.
 A classic 2-player Tic-Tac-Toe game with a clean UI, turn indicators, and interactive click sound effects!
 
 *   **⚡ Features:** Smooth animations, winning streak highlights, audio effects, and fully responsive on mobile.
-*   **🔗 Live Demo:** [Play Tic-Tac-Toe](https://rajeshpal33.github.io/web-projects/tic-tac-toe/)
+*   **🔗 Live Demo:** [Play Tic-Tac-Toe](https://Rajeshpal33.github.io/web-projects/tic-tac-toe/)
 
 ---
 
