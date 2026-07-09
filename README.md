@@ -1,4 +1,4 @@
-# 🌐 Web Projects Portfolio
+# 🌐 Web Projects
 
 Welcome to my frontend web development showcase! This repository contains interactive, responsive, and fun mini-games built using **HTML5, CSS3, and JavaScript**. 
 
