@@ -18,6 +18,11 @@ A modern, dark-themed Rock-Paper-Scissors game with exciting audio feedback.
 *   **⚡ Features:** Best of 5 match system, interactive sound effects for moves/win/loss, and a dynamic winner modal.
 *   **🔗 Live Demo:** [Play Rock Paper Scissors](https://rajeshpal33.github.io/web-projects/rock-paper-scissor/)
 
+### 3. Currency Converter 💱
+A sleek, premium currency converter that fetches real-time exchange rates and dynamically updates country flags.
+*   **⚡ Features:** Live API data fetching, smooth Light/Dark mode toggle, input validation, and dynamic flag updates.
+*   **🔗 Live Demo:** [Convert Currency](https://rajeshpal33.github.io/web-projects/currency-converter/)
+
 ---
 
 ## 🛠️ Tech Stack Used
