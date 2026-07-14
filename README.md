@@ -21,7 +21,7 @@ A modern, dark-themed Rock-Paper-Scissors game with exciting audio feedback.
 ### 3. Currency Converter 💱
 A sleek, premium currency converter that fetches real-time exchange rates and dynamically updates country flags.
 *   **⚡ Features:** Live API data fetching, smooth Light/Dark mode toggle, input validation, and dynamic flag updates.
-*   **🔗 Live Demo:** [Convert Currency](https://rajeshpal33.github.io/web-projects/currency-converter/)
+*   **🔗 Live Demo:** [Currency Converter](https://rajeshpal33.github.io/web-projects/currency-converter/)
 
 ---
 
