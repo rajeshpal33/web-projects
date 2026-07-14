@@ -1,6 +1,6 @@
 let userScore = 0;
 let compScore = 0;
-const targetScore = 3;
+const targetScore = 7;
 
 const choices = document.querySelectorAll(".choice");
 const msg = document.querySelector("#msg");
